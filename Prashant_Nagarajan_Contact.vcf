@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Collaborus//Virtual Business Card//EN
+FN;CHARSET=UTF-8:Prashant Nagarajan
+N;CHARSET=UTF-8:Nagarajan;Prashant;;;
+ORG:Collaborus
+TITLE:Partner
+TEL;TYPE=CELL,VOICE:+61421713460
+EMAIL;TYPE=INTERNET:hello@collaborus.com.au
+URL:https://collaborus.com.au
+END:VCARD
